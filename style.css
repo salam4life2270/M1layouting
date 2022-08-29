@@ -1,0 +1,20 @@
+.header {
+    background: url(covid-image.webp) no-repeat center center; 
+    background-size: cover;
+    height: 800px;
+    text-align: center; 
+  }
+  .smaller-image {
+    width: 400px;
+    border-radius: 50px;
+    border-radius: 30%;
+  }
+  .blue-text{
+    color: blueviolet;
+}
+.thick-blue-border {
+    border-color: blue;
+    border-width: 8px;
+    border-style: solid;
+    border-radius: 20px;
+  }
